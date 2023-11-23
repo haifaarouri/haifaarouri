@@ -1,6 +1,11 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;">
+    <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif" width="100%" height="100%"/>
+  </div>
+  <p>
+    <a href="https://giphy.com/stickers/putti-programming-html-computer-juua9i2c2fA0AIp2iq">via GIPHY</a>
+  </p>
   <div id="badges">
     <a href="https://www.linkedin.com/in/haifa-arouri-337513221/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,7 +21,7 @@
   ### :man_technologist: About Me :
   - I'm Haifa AROURI, a passionate and dedicated Full-stack Developer with a strong foundation in both front-end and back-end development. My professional journey has been enriched by diverse and complex projects. These experiences have allowed me to hone my skills and embrace challenges with enthusiasm.
   
-  - Currently, I am pursuing my engineering program at ESPRIT, complementing my practical experiences with a strong theoretical foundation.
+  - Currently, I am pursuing my engineering program at ESPRIT in web development field, complementing my practical experiences with a strong theoretical foundation.
   
   - My goal as a developer is to continuously expand my knowledge and contribute to innovative projects that push the boundaries of technology. I thrive in collaborative environments where creativity meets problem-solving, and I am always eager to take on new challenges. If you're interested in connecting or discussing opportunities in the world of software development, please feel free to reach out. Let's explore the possibilities together!
 
