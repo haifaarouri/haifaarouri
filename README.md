@@ -1,24 +1,7 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;">
+  <div style="width:80%;height:0;padding-bottom:100%;position:relative;">
     <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif" width="100%" height="100%"/>
-  </div>
-  <p>
-    <a href="https://giphy.com/stickers/putti-programming-html-computer-juua9i2c2fA0AIp2iq">via GIPHY</a>
-  </p>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/haifa-arouri-337513221/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&to=haifa.arouri@esprit.tn">
-      <img src="https://img.shields.io/badge/Google-red?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
-    </a>
-  </div>
-</div> 
-
-<div id="header" align="center">
-  <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
-    <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
   </div>
   <p>
     <a href="https://giphy.com/stickers/putti-programming-html-computer-juua9i2c2fA0AIp2iq">via GIPHY</a>
