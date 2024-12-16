@@ -22,6 +22,9 @@
     <a href="https://mail.google.com/mail/u/0/?fs=1&to=haifa.arouri@esprit.tn">
       <img src="https://img.shields.io/badge/Google-red?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
     </a>
+    <a href="https://medium.com/@haifa.arouri">
+      <img src="https://img.shields.io/badge/Medium?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+    </a>
   </div>
 </div> 
 
