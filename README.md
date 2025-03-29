@@ -102,8 +102,39 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haifaarouri&layout=compact&theme=react&hide=html,css,scss,blade,twig,less&langs_count=8" alt="haifaarouri" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haifaarouri&theme=react&show_icons=true&include_all_commits=true" alt="haifaarouri" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=haifaarouri&theme=react" alt="haifaarouri" /></p>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haifaarouri&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haifaarouri&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)
+
+###
+
+<!--<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haifaarouri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haifaarouri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>-->
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/haifaarouri/haifaarouri/output/snake.svg" alt="Snake animation" />
+
+###
+
+### :fire: My Stats :
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=haifaarouri&theme=vue)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haifaarouri&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
+<div id="header" align="center">
+  <div style="width:80%;height:0;padding-bottom:100%;position:relative;">
+    <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif" width="100%" height="100%"/>
+  </div>
+</div> 
 ---
 
 
