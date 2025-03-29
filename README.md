@@ -1,32 +1,31 @@
 <h1 align="center">Hi 👋, I'm Haifa AROURI</h1>
-<h3 align="center">Software Engineer | Web Developer</h3>
+<h3 align="center">Software Engineer | Web Developer, from Tunisia</h3>
 
 ---
+
+###
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haifaarouri&label=Profile%20views&color=0e75b6&style=flat" alt="haifaarouri" /> </p>
+<div align="center">
+  <a href="haifaarouri29@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/haifa-arouri" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@haifa.arouri" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+</div>
+
+###
 
   ### :man_technologist: About Me :
   - I'm Haifa AROURI, a passionate and dedicated Full-stack Developer with a strong foundation in both front-end and back-end development. My professional journey has been enriched by diverse and complex projects. These experiences have allowed me to hone my skills and embrace challenges with enthusiasm.
   
-  - Currently, I am pursuing my engineering program at ESPRIT in web development field, complementing my practical experiences with a strong theoretical foundation.
+  - Currently, I am software engineer at Tac-Tic where I am contributing to multiple projects using modern technologies.
   
   - My goal as a developer is to continuously expand my knowledge and contribute to innovative projects that push the boundaries of technology. I thrive in collaborative environments where creativity meets problem-solving, and I am always eager to take on new challenges. If you're interested in connecting or discussing opportunities in the world of software development, please feel free to reach out. Let's explore the possibilities together!
-
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haifaarouri&label=Profile%20views&color=0e75b6&style=flat" alt="haifaarouri" /> </p>
-<div id="header" align="center">
-  <div id="badges">
-    <h3 align="left">Connect with me:</h3>
-    <a href="https://www.linkedin.com/in/haifa-arouri/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&to=haifa.arouri@esprit.tn">
-      <img src="https://img.shields.io/badge/Google-red?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
-    </a>
-    <a href="https://medium.com/@haifa.arouri">
-     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-    </a>
-  </div>
-</div> 
 
 ---
 
@@ -47,6 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />&nbsp;
 </div>
 
 #### Languages : 
@@ -56,8 +56,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />&nbsp;
+  <img width="12" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />&nbsp;
 </div>
 
 #### Databases :
@@ -70,7 +71,9 @@
 #### Tools : 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="Redux" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/reactbootstrap/reactbootstrap-original.svg" title="ReactBootstrap" **alt="ReactBootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="ReactRouter" **alt="ReactRouter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="SocketIo" **alt="SocketIo" width="40" height="40"/>&nbsp;
@@ -79,6 +82,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" **alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
 ---
@@ -92,6 +105,21 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=haifaarouri&theme=react" alt="haifaarouri" /></p>
 
 ---
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haifaarouri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haifaarouri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/haifaarouri/haifaarouri/output/snake.svg" alt="Snake animation" />
+
+###
 
 ### :fire: My Stats :
 <div align="center">
@@ -107,18 +135,3 @@
     <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif" width="100%" height="100%"/>
   </div>
 </div> 
-
-<!--
-*haifaarouri/haifaarouri* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
