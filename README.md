@@ -6,16 +6,19 @@
 ###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haifaarouri&label=Profile%20views&color=0e75b6&style=flat" alt="haifaarouri" /> </p>
-<div align="center">
-  <a href="haifaarouri29@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/haifa-arouri" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@haifa.arouri" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
+<div id="header" align="center">
+  <div id="badges">
+    <h3 align="left">Connect with me:</h3>
+    <a href="https://www.linkedin.com/in/haifa-arouri/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&to=haifa.arouri@esprit.tn">
+      <img src="https://img.shields.io/badge/Google-red?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
+    </a>
+    <a href="https://medium.com/@haifa.arouri">
+     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+    </a>
+  </div>
 </div>
 
 ###
